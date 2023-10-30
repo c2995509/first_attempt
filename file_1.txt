@@ -1,1 +1,2 @@
 'This is a new enter in text file'
+'The is a new line'
